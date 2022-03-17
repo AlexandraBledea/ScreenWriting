@@ -1,0 +1,7 @@
+Trees with apples;proposed;Ale;1
+Cloudy sky;accepted;Adrian;3
+Sunny and warm;proposed;Adrian;2
+Rainy day;accepted;Medeea;1
+Cold and pretty;proposed;Ale;3
+Drawings and flowers;accepted;Ale;2
+Candies and candles;proposed;Medeea;3
